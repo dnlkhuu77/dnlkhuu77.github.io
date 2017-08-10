@@ -1,0 +1,62 @@
+/*
+ *
+ * Template Name: Andia
+ * Template URI: http://azmind.com
+ * Description: Andia - Responsive Agency Template
+ * Author: Anli Zaimi
+ * Author URI: http://azmind.com
+ *
+ */
+
+
+.pdf {
+    width: 820px;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+
+/* ----- CONTACT PAGE ----- */
+
+/***** Form *****/
+
+.contact-us-container {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+.contact-us-container h3 {
+    margin-top: 25px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+    color: #5d5d5d;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+}
+
+.contact-us-container p {
+    line-height: 28px;
+    font-size: 13px;
+}
+
+.contact-form {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.contact-form form {
+    margin-top: 25px;
+}
+
+.contact-form form .form-group {
+	margin-bottom: 20px;
+}
+
+.contact-form input[type="text"] { width: 95%; height: 34px; }
+.contact-form textarea { width: 95%; height: 170px; padding-top: 6px; padding-bottom: 6px; }
+.contact-form label { font-size: 13px; font-weight: 400; }
+.contact-form label .error-label { font-style: italic }
+.contact-form button { margin-top: 5px; padding: 0 45px; }
+
